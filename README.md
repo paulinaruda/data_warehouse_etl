@@ -6,7 +6,7 @@ By effectively harnessing the potential of this data warehouse, Sparkify will be
 
 # Implementation
 
-The primary objective of this project was to design and implement an ETL pipeline within AWS virtual pricate cloud that extracts Sparkify's data from their S3 buckets, stages it in Redshift, and transforms it into a comprehensive set of dimensional tables. These tables will empower Sparkify's analytics team to derive valuable insights and uncover patterns in user behavior, enabling them to make data-driven decisions and enhance the overall user experience.
+The primary objective of this project was to design and implement an ETL pipeline within AWS virtual private cloud that extracts Sparkify's data from their S3 buckets, stages it in Redshift, and transforms it into a comprehensive set of dimensional tables. These tables will empower Sparkify's analytics team to derive valuable insights and uncover patterns in user behavior, enabling them to make data-driven decisions and enhance the overall user experience.
 
 # Data Flow Diagram
 The below diagram shows how the data flows and processes
