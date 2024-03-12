@@ -1,6 +1,6 @@
 # Sparkify Data Warehouse 
 
-Thie project is a data warehouse by Paulina R and is a part od Data Engineering Nanodegree with Udacity. 
+Thie project is a data warehouse by Paulina R and is a part od Data Engineering Nanodegree with Udacity. <br>
 In the ever-evolving world of music streaming, Sparkify, a dynamic startup, has successfully expanded its user base and amassed a vast collection of songs. To enhance their data management capabilities and leverage the power of the cloud, Sparkify has embarked on a journey to migrate their data processes to a cloud-based data warehouse. 
 By effectively harnessing the potential of this data warehouse, Sparkify will be equipped with a robust foundation for their analytics endeavors, allowing them to stay ahead of the competition and continuously optimize their services based on a deep understanding of their users' preferences and listening habits.
 
