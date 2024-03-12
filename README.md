@@ -43,7 +43,7 @@ For the script to work correctly there is a few requirements that must be fulfil
 2. Open the file dwh.cfg and make sure that in the HOST and ARN line the value after = sign is equal to xx. If it it is not, delete the value and replace it with xx(do not add coma or any other signs, just the double x letter).
 3. For the script to work you should have all the provided files in one directory.<br>
 Files needed: <br>
-create_tables.py (creates fact and dimension tables for the star schema in Redshift)
-etl.py (loads data from S3 into staging tables on Redshift and then processes that data into your analytics tables on Redshift)
-sql_queries.py (defines SQL statements, which will be imported into the two other files above)
+create_tables.py (creates fact and dimension tables for the star schema in Redshift)<br>
+etl.py (loads data from S3 into staging tables on Redshift and then processes that data into your analytics tables on Redshift)<br>
+sql_queries.py (defines SQL statements, which will be imported into the two other files above)<br>
 dwh.cfg (stores configurations variables)
